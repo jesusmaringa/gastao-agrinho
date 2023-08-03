@@ -14,11 +14,18 @@
     }
     .menu a:hover{
         background-color: transparent;
-        color: var(--gray);
-
+        color:
     }
 
     .hamb{
         display: none;
+    }
+    .titulo_desktop {
+        display: block;
+    }
+    .header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
     }
 }

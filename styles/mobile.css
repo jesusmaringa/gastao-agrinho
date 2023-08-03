@@ -98,3 +98,8 @@ ul{
     transform: rotate(+45deg);
     top: 0;
 }
+.titulo_desktop {
+    display: none;
+    font-size: 2em;
+    color: var(--fonte-clara);
+}
