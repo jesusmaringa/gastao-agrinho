@@ -20,11 +20,4 @@
     .hamb{
         display: none;
     }
-    .pic-ctn > .doc {
-        position: absolute;
-        top: 0;
-        left: 10%;
-        opacity: 0;
-        animation: display 10s infinite;
-      }
 }
